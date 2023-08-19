@@ -3,7 +3,6 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yared Ayele</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yared11000010&label=Profile%20views&color=0e75b6&style=flat" alt="yared11000010" /> </p>
 - 🔭 I’m currently working on **Multi_Vendor Ecommerce**
 
 - 🌱 I’m currently learning **PHP Laravel,Flutter,Java,**

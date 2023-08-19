@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Multi_Vendor Ecommerce**
 
-- 🌱 I’m currently learning **PHP Laravel,Flutter,Java,**
+- 🌱 I’m currently learning **REACT JS,JAVA,**
 
 - 💬 Ask me about **PHP laravel,Java,Html,Css,Javascript,Bootstarp**
 

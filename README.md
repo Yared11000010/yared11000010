@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PHP laravel,Java,Html,Css,Javascript,Bootstarp**
 
-- 📫 How to reach me **yaredayele@67@gmail.com**
+- 📫 How to reach me **yared.debela.ayele@gmail.com**
 
 - ⚡ Fun fact **Code is like magic, but it's Real**
   

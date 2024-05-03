@@ -26,12 +26,17 @@ Name | Badges
 
 **Hosting, DevOps & tools**   |  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yared11000010&show_icons=true&locale=en&layout=compact" alt="yared11000010" /></p>
+<div style="display:flex">
+  <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yared11000010&show_icons=true&locale=en&layout=compact" alt="yared11000010" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yared11000010&show_icons=true&locale=en" alt="yared11000010" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yared11000010&" alt="yared11000010" /></p>
+
+</div>
+
 
 
 ### ✍️ Quote of the day

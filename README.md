@@ -1,6 +1,6 @@
 <div align="center"><h1>Hey there 👋 Welcome!!!</h1></ div>
 <div align="center">
-<img src="https://github.com/Yared11000010/yared11000010/blob/main/61962d19786f2d18fda0339d8309855f.jpg" height=auto>
+<img src="https://github.com/Yared11000010/yared11000010/blob/main/new.jpg" height=auto>
 </ div>
 <br>
 

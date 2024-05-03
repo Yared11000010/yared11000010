@@ -29,13 +29,7 @@ Name | Badges
 
 **Hosting, DevOps & tools**   |  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yohannes90&theme=darcula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yohannes90&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes90&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yohannes90&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

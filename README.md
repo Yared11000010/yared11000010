@@ -39,5 +39,6 @@ Name | Badges
 
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=code is like magic but its real&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

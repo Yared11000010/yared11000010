@@ -36,7 +36,6 @@ Name | Badges
 
 
 
-### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+### ✍️ Quote ###
+Coding Is Like Magic 🪄 But It's Real 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
